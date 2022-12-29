@@ -1,0 +1,49 @@
+*{
+    background-color: rgb(224, 224, 158);
+}
+    
+
+
+.card{
+
+    text-align: center;
+}
+
+.grid{
+    text-align: center;
+
+    
+}
+
+.phone{
+    text-align: center;
+
+}
+
+.dynamic{
+    text-align: center;
+
+}
+.card-title{
+    color:red;
+    font-size: 20px;
+}
+.card-header{
+
+    font-size: 20px;
+}
+
+.lable{
+    font-size: 20px;
+
+}
+
+.key{
+    font-size: 20px;
+
+}
+.home{
+    color: red;
+    font-size: 20px;
+
+}
